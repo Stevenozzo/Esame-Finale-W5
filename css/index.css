@@ -1,0 +1,23 @@
+body {
+  background-color: #141414 !important;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+a {
+  color: #e7e3e0 !important;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 130px;
+}
+
+.profile {
+  width: 45px;
+}
